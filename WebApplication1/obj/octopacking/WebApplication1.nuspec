@@ -1,0 +1,86 @@
+<package>
+  <metadata>
+    <id>WebApplication1</id>
+    <version>1.0.0.0</version>
+    <authors>User</authors>
+    <owners>User</owners>
+    <tags>OctopusDeploy</tags>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The WebApplication1 deployment package, built on 15-06-2020</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Content\bootstrap.css" target="Content\bootstrap.css" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Content\bootstrap.min.css" target="Content\bootstrap.min.css" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\favicon.ico" target="favicon.ico" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.svg" target="fonts\glyphicons-halflings-regular.svg" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Global.asax" target="Global.asax" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Content\Site.css" target="Content\Site.css" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\bootstrap.js" target="Scripts\bootstrap.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\bootstrap.min.js" target="Scripts\bootstrap.min.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\ApplicationInsights.config" target="ApplicationInsights.config" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\jquery-1.10.2.js" target="Scripts\jquery-1.10.2.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\jquery-1.10.2.min.js" target="Scripts\jquery-1.10.2.min.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\jquery.validate.js" target="Scripts\jquery.validate.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\jquery.validate.min.js" target="Scripts\jquery.validate.min.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\jquery.validate.unobtrusive.js" target="Scripts\jquery.validate.unobtrusive.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\jquery.validate.unobtrusive.min.js" target="Scripts\jquery.validate.unobtrusive.min.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\modernizr-2.6.2.js" target="Scripts\modernizr-2.6.2.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\respond.js" target="Scripts\respond.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\respond.min.js" target="Scripts\respond.min.js" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Web.config" target="Web.config" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Web.Debug.config" target="Web.Debug.config" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Web.Release.config" target="Web.Release.config" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Views\Web.config" target="Views\Web.config" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Views\_ViewStart.cshtml" target="Views\_ViewStart.cshtml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Views\Shared\Error.cshtml" target="Views\Shared\Error.cshtml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Views\Shared\_Layout.cshtml" target="Views\Shared\_Layout.cshtml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Views\Home\About.cshtml" target="Views\Home\About.cshtml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Views\Home\Contact.cshtml" target="Views\Home\Contact.cshtml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Views\Home\Index.cshtml" target="Views\Home\Index.cshtml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.woff" target="fonts\glyphicons-halflings-regular.woff" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.ttf" target="fonts\glyphicons-halflings-regular.ttf" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\fonts\glyphicons-halflings-regular.eot" target="fonts\glyphicons-halflings-regular.eot" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\Scripts\jquery-1.10.2.min.map" target="Scripts\jquery-1.10.2.min.map" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\ApplicationInsights.config" target="bin\ApplicationInsights.config" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config" target="bin\WebApplication1.dll.config" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll" target="bin\WebApplication1.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb" target="bin\WebApplication1.pdb" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll" target="bin\Antlr3.Runtime.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll" target="bin\Microsoft.AI.Agent.Intercept.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll" target="bin\Microsoft.AI.DependencyCollector.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll" target="bin\Microsoft.AI.PerfCounterCollector.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll" target="bin\Microsoft.AI.ServerTelemetryChannel.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll" target="bin\Microsoft.AI.Web.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll" target="bin\Microsoft.AI.WindowsServer.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll" target="bin\Microsoft.ApplicationInsights.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll" target="bin\System.Web.Optimization.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\WebGrease.dll" target="bin\WebGrease.dll" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" target="bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml" target="bin\System.Web.Optimization.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb" target="bin\Antlr3.Runtime.pdb" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml" target="bin\Microsoft.ApplicationInsights.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml" target="bin\Microsoft.AI.DependencyCollector.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml" target="bin\Microsoft.AI.ServerTelemetryChannel.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml" target="bin\Microsoft.AI.WindowsServer.xml" />
+    <file src="C:\Users\User\source\repos\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml" target="bin\Microsoft.AI.Web.xml" />
+  </files>
+</package>
